@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 Hi, I'm Amit
+## 👋 Hi, I'm Amit Kumar
 
 🚀 **MERN Stack Developer | Junior Penetration Testing Enthusiast**  
 💻 Building **Secure & Scalable Web Applications**  
@@ -91,8 +91,10 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amit9950&theme=radical&no-frame=true&row=2&column=4"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amit9950&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9950&layout=compact&theme=radical" />
 </p>
+
 
 ---
 

@@ -1,8 +1,18 @@
-# 👋 Hi, I'm Amit
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Amit%20%7C%20Secure%20MERN%20Developer&fontColor=FF6B6B&fontSize=36"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4ECDC4&size=24&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Security-First+Web+Engineer;Junior+Penetration+Testing+Enthusiast;Building+Secure+%26+Scalable+Apps"/>
+</p>
+
+---
+
+## 👋 Hi, I'm Amit
 
 🚀 **MERN Stack Developer | Junior Penetration Testing Enthusiast**  
 💻 Building **Secure & Scalable Web Applications**  
-📍 India | 🔐 Security-Focused Developer  
+📍 India | 🔐 **Security-Focused Developer**
 
 ---
 
@@ -56,10 +66,25 @@
 
 ---
 
+## 📌 Featured Projects (Pin These)
+- 🔐 **secure-auth-jwt** — JWT auth with security best practices  
+- 🛒 **mern-ecommerce** — Full-stack MERN commerce app  
+- 🕵️ **network-scanner** — Custom network reconnaissance tool  
+- 🛡️ **vulnerability-scanner** — Web app security testing  
+- 📊 **security-dashboard** — Real-time monitoring interface  
+
+*(Profile → Customize Profile → Pin repositories)*
+
+---
+
 ## 📈 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amit9950&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9950&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amit9950&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit9950&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit9950&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -71,11 +96,24 @@
 
 ---
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amit9950/amit9950/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 ## 🎯 Quote
 > *"Security is not a product, but a process."* — **Bruce Schneier**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit9950&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=amit9950&style=for-the-badge&color=FF6B6B"/>
 </p>
 
 <p align="center"><i>⚡ Code Securely, Deploy Confidently ⚡</i></p>
